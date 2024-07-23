@@ -13,7 +13,7 @@ Install mkcert:
 
 Install NSS for FireFox
 
-`$ brew install nss`
+`$ brew install nss`
 
 Run mkcert to install in system. The systems request the user password.
 
